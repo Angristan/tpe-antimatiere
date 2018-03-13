@@ -14,7 +14,6 @@ Les sources bibliographiques, sitographiques, et vidéographiques se trouvent [i
 
 En cas de problème de visionnage de la présentation, elle est disponible en PDF [ici](https://antimatiere.angristan.xyz/tpe-antimatiere-prezi.pdf).
 
-
 Travaux réalisés par :
 
 - Stanislas Lange
